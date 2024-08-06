@@ -1,3 +1,5 @@
+"use server"
+
 import { sendEmail } from "@/app/utils/contact.utils"
 import { NextApiRequest, NextApiResponse } from "next";
 
