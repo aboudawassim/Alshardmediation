@@ -7,6 +7,10 @@ export function Partners() {
     <section id="partners" className="py-16 px-6 md:px-10">
       <div className="max-w-5xl mx-auto">
         <h2 className="text-3xl font-bold mb-8 text-center">Our Partners</h2>
+        <p className="max-w-[900px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
+                Hear from our satisfied clients about their experience working with Al Shard FCommercial Mediation
+                Company.
+              </p>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           <Card className="bg-background rounded-lg shadow-lg p-6">
             <div className="flex items-center gap-4 mb-4">
