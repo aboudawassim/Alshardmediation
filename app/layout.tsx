@@ -2,10 +2,10 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import { Arimo } from "next/font/google" ;
-import { Navbar } from "@/app/components/navbar";
-import { Footer } from "@/app/components/footer";
-import { Footer1 } from "@/app/components/footer1";
-import WhatsApp from "./components/whatsapp";
+import { Navbar } from "@/components/navbar";
+import { Footer } from "@/components/footer";
+import { Footer1 } from "@/components/footer1";
+import WhatsApp from "../components/whatsapp";
 
 
 const arimo = Arimo({ 

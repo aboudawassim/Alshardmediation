@@ -1,5 +1,5 @@
 
-import { Button } from "@/app/components/ui/button"
+import { Button } from "@/components/ui/button"
 import Services from "./services"
 import Values from "./values"
 import { Vision } from "./vision"
